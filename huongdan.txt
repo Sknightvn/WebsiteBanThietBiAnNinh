@@ -1,0 +1,4 @@
+1.Cài đặt tomcat 9.0 (định kèm trong src)
+2.Chạy scripts SQL (định 2 trong src)
+3.Chạy HomeContoller.java
+4.Tài khoản quản trị mặc định (tk:admin, pas:admin)
